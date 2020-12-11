@@ -6,7 +6,8 @@
 ```markdown
 - Principle Investigator
 - Professor in biophysics at Jiangsu University of Technology
-- PhD: University of Missouri-Columbia
+- PhD: University of Missouri-Columbia (Advisor: Shi-Jie Chen)
+- Master: Zhejiang University (Advisor: Gaoxiang Ye)
 - Email: xuxiaojun@jsut.edu.cn
 ```
 ### Contributors:
