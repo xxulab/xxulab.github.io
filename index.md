@@ -1,15 +1,17 @@
 ### Welcome to xuxj research page
 
-* Principle Investigator: Xiaojun Xu (PhD, Professor)
+```markdown
+* Principle Investigator: **Xiaojun Xu** / PhD, Professor
 * Email: xuxiaojun@jsut.edu.cn
 * Address: 1801 Zhongwu Road, Jiangsu University of Technology, Changzhou, 213001, China
+```
 
 ### Research Interests:
 
 ```markdown
 - RNA structure prediction
 - RNA folding simulation
-- AI for molecule interactions and drug design
+- AI for molecular interactions and drug design
 ```
 
 ```markdown
