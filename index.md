@@ -1,13 +1,14 @@
 ### Welcome to xuxj research page
 
-* Principle Investigator: Xiaojun Xu
-                          PhD, Professor
+* Principle Investigator: Xiaojun Xu (PhD, Professor)
 * Email: xuxiaojun@jsut.edu.cn
 * Address: 1801 Zhongwu Road, Jiangsu University of Technology, Changzhou, 213001, China
 
 ### Research Interests:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- RNA structure prediction
+- RNA folding simulation
+- AI for molecule interactions and drug design
 
 ```markdown
 Syntax highlighted code block
