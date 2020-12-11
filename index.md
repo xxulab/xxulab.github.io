@@ -6,9 +6,6 @@ School of Physics and Mathematics
 
 Jiangsu University of Technology
 
-
-The xuxj research group investigates the physical mechanism of RNA folding and develops predictive models for RNA structure and function.
-
 ### Principle Investigator:
 
 ```markdown
