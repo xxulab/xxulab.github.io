@@ -1,9 +1,8 @@
 # Welcome to xuxj research page
 
-Persistence is the Key to Success
+--- Persistence is the Key to Success ---
 
 ### Principle Investigator:
-
 
 ```markdown
 ### Xiaojun Xu
@@ -18,6 +17,12 @@ Persistence is the Key to Success
 - RNA structure prediction
 - RNA folding kinetics
 - AI for molecular interactions and drug design
+```
+
+### Research Funding:
+```markdown
+- The National Natural Science Fundation of China: 12074151
+- Jiangsu Specially-Appointed Professor: 2018-2021
 ```
 
 ### Publications:
@@ -53,7 +58,7 @@ Please visit [here](http://xuxjlab.github.com/publications.html) for the full li
 - AI in physics and chemistry
 ```
 
-### Support or Contact
+### Support or Contact:
 
 If you have questions or comments, please contact us at xuxiaojun@jsut.edu.cn.
 
