@@ -1,6 +1,6 @@
 # Welcome to xuxj research page
 
------ Persistence is the Key to Success -----
+----- Seriousness is an attitude -----
 
 **Xiaojun Xu**
 ```markdown
