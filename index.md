@@ -10,7 +10,7 @@
 - Master: Zhejiang University (Advisor: Gaoxiang Ye)
 - Email: xuxiaojun@jsut.edu.cn
 ```
-### Contributors:
+### Major contributors:
 Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Yi Cheng(MU), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jiangpin Xie(ZJHU), Yangyang Su(JSUT)
 
 ### Research Interests:
