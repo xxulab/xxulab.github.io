@@ -11,7 +11,7 @@
 - Email: xuxiaojun@jsut.edu.cn
 ```
 ### Contributors:
-Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jiangpin Xie(ZJHU), Yangyang Su(JSUT)
+Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Yi Cheng(MU), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jiangpin Xie(ZJHU), Yangyang Su(JSUT)
 
 ### Research Interests:
 ```markdown
