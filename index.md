@@ -6,17 +6,10 @@ Persistence is the Key to Success
 
 
 ```markdown
-## Xiaojun Xu
+### Xiaojun Xu
 - Professor in biophysics at Jiangsu University of Technology
 - PhD: University of Missouri-Columbia
 - Email: xuxiaojun@jsut.edu.cn
-```
-
-### Teaching:
-
-```markdown
-- University Physics
-- AI in physics and chemistry
 ```
 
 ### Research Interests:
@@ -52,6 +45,13 @@ _J Am Chem Soc_, 134: 12499-12507 (2012).
 ```
 
 Please visit [here](http://xuxjlab.github.com/publications.html) for the full list of publications.
+
+### Teaching:
+
+```markdown
+- University Physics
+- AI in physics and chemistry
+```
 
 ### Support or Contact
 
