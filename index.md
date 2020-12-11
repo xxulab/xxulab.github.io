@@ -4,7 +4,7 @@
 
 ### Principle Investigator:
 
-### Xiaojun Xu
+**Xiaojun Xu**
 - Professor in biophysics at Jiangsu University of Technology
 - PhD: University of Missouri-Columbia
 - Email: xuxiaojun@jsut.edu.cn
@@ -25,7 +25,6 @@
 
 ### Publications:
 
-```markdown
 1. **Xiaojun Xu**, Shi-Jie Chen. 
 Topological constraints of RNA pseudoknotted and loop-kissing motifs: applications to three-dimensional structure prediction.
 _Nucleic Acids Res_, 48: 6503-6512 (2020).
@@ -45,7 +44,6 @@ _J Am Chem Soc_, 137: 15742-15752 (2015).
 5. **Xiaojun Xu**, Shi-Jie Chen. 
 Kinetic mechanism of conformational switch between bistable RNA hairpins.
 _J Am Chem Soc_, 134: 12499-12507 (2012).
-```
 
 Please visit [here](http://xuxjlab.github.com/publications.html) for the full list of publications.
 
