@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Xiaojun Xu research group
 
 You can use the [editor on GitHub](https://github.com/xuxjlab/xuxjlab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
