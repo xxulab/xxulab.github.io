@@ -1,8 +1,7 @@
-### Welcome to xuxj research page
+# Welcome to xuxj research page
 
 ```markdown
-* Principle Investigator: ##Xiaojun Xu
-/ PhD, Professor
+* Principle Investigator: **Xiaojun Xu** /PhD,Professor
 * Email: xuxiaojun@jsut.edu.cn
 * Address: 1801 Zhongwu Road, Jiangsu University of Technology, Changzhou, 213001, China
 ```
@@ -15,29 +14,21 @@
 - AI for molecular interactions and drug design
 ```
 
+### Publications:
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. **Xiaojun Xu**, Shi-Jie Chen. 
+Topological constraints of RNA pseudoknotted and loop-kissing motifs: applications to three-dimensional structure prediction.
+_Nucleic Acids Res_, 48: 6503-6512 (2020).
+2. Fengfei Wang, Li-Zhen Sun, Pinggen Cai, Shi-Jie Chen, **Xiaojun Xu**.
+Kinetic mechanism of RNA helix-terminal base pairing - a kinetic minima network analysis.
+_Biophys J_, 117: 1674-1683 (2019).
+3. **Xiaojun Xu**, Tao Yu, Shi-Jie Chen. 
+Understanding the kinetic mechanism of RNA single base pair formation.
+_Proc Natl Acad Sci USA_, 113: 116-121 (2016).
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuxjlab/xuxjlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Please visit here for the full list of publications.
 
 ### Support or Contact
 
