@@ -6,9 +6,11 @@
 
 ### Research Interests:
 
+```markdown
 - RNA structure prediction
 - RNA folding simulation
 - AI for molecule interactions and drug design
+```
 
 ```markdown
 Syntax highlighted code block
