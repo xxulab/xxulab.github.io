@@ -6,13 +6,13 @@ Persistence is the Key to Success
 
 ```markdown
 * **Xiaojun Xu**
-* Professor at Jiangsu University of Technology
+* Professor in biophysics at Jiangsu University of Technology
 
 * PhD: University of Missouri-Columbia
 * Email: xuxiaojun@jsut.edu.cn
 ```
 
-### Publications:
+### Teaching:
 
 ```markdown
 - University Physics
