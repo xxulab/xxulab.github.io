@@ -2,9 +2,7 @@
 
 ----- Seriousness is an attitude -----
 
-```diff
 **Xiaojun Xu**
-```
 ```markdown
 - Principle Investigator
 - Professor in biophysics at Jiangsu University of Technology
