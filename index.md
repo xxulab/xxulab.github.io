@@ -59,6 +59,6 @@ _J Am Chem Soc_, 134: 12499-12507 (2012).
 
 ### Support or Contact:
 
-If you have questions or comments, please contact us at xuxiaojun@jsut.edu.cn.
+If you have questions or comments, please contact [us](xuxiaojun@jsut.edu.cn).
 
 Copyright: (C) 2020-2020 by **xuxj** Research Group. Last modified: 12-11-2020
