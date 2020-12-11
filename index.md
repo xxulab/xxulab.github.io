@@ -57,4 +57,4 @@ Please visit [here](http://xuxjlab.github.com/publications.html) for the full li
 
 If you have questions or comments, please contact us at xuxiaojun@jsut.edu.cn.
 
-Copyright: (C) 2020-2020 by xuxj Research Group. Last modified: 12-11-2020
+Copyright: (C) 2020-2020 by **xuxj** Research Group. Last modified: 12-11-2020
