@@ -4,12 +4,12 @@ Persistence is the Key to Success
 
 ### Principle Investigator:
 
-```markdown
-* **Xiaojun Xu**
-* Professor in biophysics at Jiangsu University of Technology
 
-* PhD: University of Missouri-Columbia
-* Email: xuxiaojun@jsut.edu.cn
+```markdown
+## Xiaojun Xu
+- Professor in biophysics at Jiangsu University of Technology
+- PhD: University of Missouri-Columbia
+- Email: xuxiaojun@jsut.edu.cn
 ```
 
 ### Teaching:
