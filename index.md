@@ -22,8 +22,8 @@ Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jia
 
 ### Research Funding:
 ```markdown
-- The National Natural Science Fundation of China: 12074151
-- Jiangsu Specially-Appointed Professor: 2018-2021
+- The National Natural Science Fundation of China
+- Jiangsu Specially-Appointed Professor
 ```
 
 ### Publications:
