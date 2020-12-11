@@ -1,8 +1,11 @@
-## Welcome to Xiaojun Xu research group
+### Welcome to xuxj research page
 
-You can use the [editor on GitHub](https://github.com/xuxjlab/xuxjlab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Principle Investigator: Xiaojun Xu
+* 
+* Email: xuxiaojun@jsut.edu.cn
+* QQ: 12040468
+* Address: 1801 Zhongwu Road, Jiangsu University of Technology
+           Changzhou, Jiangsu 213001, China
 
 ### Markdown
 
