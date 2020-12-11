@@ -9,6 +9,8 @@
 - PhD: University of Missouri-Columbia
 - Email: xuxiaojun@jsut.edu.cn
 ```
+### Contributors:
+Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jiangpin Xie(ZJHU), Yangyang Su(JSUT)
 
 ### Research Interests:
 ```markdown
@@ -24,7 +26,6 @@
 ```
 
 ### Publications:
-
 1. **Xiaojun Xu**, Shi-Jie Chen. 
 Topological constraints of RNA pseudoknotted and loop-kissing motifs: applications to three-dimensional structure prediction.
 _Nucleic Acids Res_, 48: 6503-6512 (2020).
