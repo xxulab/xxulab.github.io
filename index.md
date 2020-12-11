@@ -2,10 +2,9 @@
 
 ----- Persistence is the Key to Success -----
 
-### Principle Investigator:
-
 **Xiaojun Xu**
 ```markdown
+- Principle Investigator
 - Professor in biophysics at Jiangsu University of Technology
 - PhD: University of Missouri-Columbia
 - Email: xuxiaojun@jsut.edu.cn
