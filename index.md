@@ -1,7 +1,8 @@
 ### Welcome to xuxj research page
 
 ```markdown
-* Principle Investigator: **Xiaojun Xu** / PhD, Professor
+* Principle Investigator: ##Xiaojun Xu
+/ PhD, Professor
 * Email: xuxiaojun@jsut.edu.cn
 * Address: 1801 Zhongwu Road, Jiangsu University of Technology, Changzhou, 213001, China
 ```
