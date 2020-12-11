@@ -1,16 +1,17 @@
 # Welcome to xuxj research page
 
---- Persistence is the Key to Success ---
+----- Persistence is the Key to Success -----
 
 ### Principle Investigator:
 
 **Xiaojun Xu**
+```markdown
 - Professor in biophysics at Jiangsu University of Technology
 - PhD: University of Missouri-Columbia
 - Email: xuxiaojun@jsut.edu.cn
+```
 
 ### Research Interests:
-
 ```markdown
 - RNA structure prediction
 - RNA folding kinetics
@@ -45,7 +46,7 @@ _J Am Chem Soc_, 137: 15742-15752 (2015).
 Kinetic mechanism of conformational switch between bistable RNA hairpins.
 _J Am Chem Soc_, 134: 12499-12507 (2012).
 
-Please visit [here](http://xuxjlab.github.com/publications.html) for the full list of publications.
+--- Please visit [here](http://xuxjlab.github.com/publications.html) for the full list of publications.
 
 ### Teaching:
 
