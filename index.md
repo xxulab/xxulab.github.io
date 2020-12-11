@@ -1,13 +1,11 @@
 ### Welcome to xuxj research page
 
 * Principle Investigator: Xiaojun Xu
-* 
+                          PhD, Professor
 * Email: xuxiaojun@jsut.edu.cn
-* Address: 1801 Zhongwu Road, Jiangsu University of Technology
+* Address: 1801 Zhongwu Road, Jiangsu University of Technology, Changzhou, 213001, China
 
-           Changzhou, Jiangsu 213001, China
-
-### Markdown
+### Research Interests:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
