@@ -3,8 +3,8 @@
 * Principle Investigator: Xiaojun Xu
 * 
 * Email: xuxiaojun@jsut.edu.cn
-* QQ: 12040468
 * Address: 1801 Zhongwu Road, Jiangsu University of Technology
+
            Changzhou, Jiangsu 213001, China
 
 ### Markdown
