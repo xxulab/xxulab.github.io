@@ -51,10 +51,10 @@ Kinetic mechanism of conformational switch between bistable RNA hairpins.
 _J Am Chem Soc_, 134: 12499-12507 (2012).
 ```
 
-Please visit here for the full list of publications.
+Please visit [here](http://xuxjlab.github.com/publications.html) for the full list of publications.
 
 ### Support or Contact
 
-If you have questions or comments, please contact us.
+If you have questions or comments, please contact us at xuxiaojun@jsut.edu.cn.
 
 Copyright: (C) 2020-2020 by xuxj Research Group. Last modified: 12-11-2020
