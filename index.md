@@ -1,19 +1,22 @@
 # Welcome to xuxj research page
 
-Institute of Bioinformatics and Medical Engineering
-
-School of Physics and Mathematics
-
-Jiangsu University of Technology
+Persistence is the Key to Success
 
 ### Principle Investigator:
 
 ```markdown
 * **Xiaojun Xu**
+* Professor at Jiangsu University of Technology
+
 * PhD: University of Missouri-Columbia
-* Professor in Biophysics
 * Email: xuxiaojun@jsut.edu.cn
-* Address: 1801 Zhongwu Road, Jiangsu University of Technology, Changzhou, 213001, China
+```
+
+### Publications:
+
+```markdown
+- University Physics
+- AI in physics and chemistry
 ```
 
 ### Research Interests:
@@ -38,6 +41,14 @@ _Biophys J_, 117: 1674-1683 (2019).
 3. **Xiaojun Xu**, Tao Yu, Shi-Jie Chen. 
 Understanding the kinetic mechanism of RNA single base pair formation.
 _Proc Natl Acad Sci USA_, 113: 116-121 (2016).
+
+4. Xinyue Zhang, **Xiaojun Xu**, Zhiyu Yang, Andrew J Burcke, Kent S Gates, Shi-Jie Chen, Li-Qun Gu.
+Mimicking ribosomal unfolding of RNA pseudoknot in a protein channel.
+_J Am Chem Soc_, 137: 15742-15752 (2015).
+
+5. **Xiaojun Xu**, Shi-Jie Chen. 
+Kinetic mechanism of conformational switch between bistable RNA hairpins.
+_J Am Chem Soc_, 134: 12499-12507 (2012).
 ```
 
 Please visit here for the full list of publications.
