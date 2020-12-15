@@ -1,9 +1,46 @@
-[22]
+[30] **Xiaojun Xu**, Tao Yu, Shi-Jie Chen.
+Understanding the kinetic mechanism of RNA single base pair formation.
+_Proc Natl Acad Sci USA_, 113: 116-121 (2016).
 
-[21]
+[29] **Xiaojun Xu**, Chen Shi-Jie
+VfoldCPX server: predicting RNA-RNA complex structure and stability.
+_PLoS ONE_, 11: e0163454 (2016).
 
-[20]
+[28] **Xiaojun Xu**, Shi-Jie Chen.
+A method to predict the structure and stability of RNA/RNA complexes.
+_Methods Mol Biol_, 1490: 63-72 (2016).
 
+[27] **Xiaojun Xu**, Dickey D David, Shi-Jie Chen, Giangrande H Paloma.
+Structural computational modeling of RNA aptamers.
+_Methods_, 103: 175-179 (2016).
+
+[26] **Xiaojun Xu**, Shi-Jie Chen.
+Physics-based RNA structure prediction.
+_Biophys Rep_, 1: 2-13 (2015).
+
+[25] Xinyue Zhang, **Xiaojun Xu**, Zhiyu Yang, Andrew J Burcke, Kent  S Gates, Shi-Jie Chen, Li-Qun Gu.
+Mimicking ribosomal unfolding of RNA pseudoknot in a protein channel.
+_J Am Chem Soc_, 137: 15742-15752 (2015).
+
+[24] Zhichao Miao, …, **Xiaojun Xu**, …, Eric Westhof.
+RNA-Puzzles Round II: assessment of RNA structure prediction programs applied to three large RNA structures.
+_RNA_, 21: 1066-1084 (2015).
+
+[23] **Xiaojun Xu**, Shi-Jie Chen.
+A Method to predict the 3D structure of an RNA scaffold.
+_Methods Mol Biol_, 1316: 1-11 (2015).
+
+[22] **Xiaojun Xu**, Peinan Zhao, Shi-Jie Chen*.
+Vfold: A web server for RNA structure and folding thermodynamics prediction.
+_PLoS ONE_, 9: e107504 (2014).
+
+[21] Song Cao#, **Xiaojun Xu**(# co-first), Shi-Jie Chen*.
+Predicting structure and stability for RNA complexes with intermolecular loop–loop base-pairing.
+_RNA_, 20: 835-845 (2014).
+
+[20] **Xiaojun Xu**, Shi-Jie Chen*.
+Kinetic mechanism of conformational switch between bistable RNA hairpins.
+_J Am Chem Soc_, 134: 12499-12507 (2012).
 
 [19] 吴一琦，**许晓军**.
 三角点阵基底上基于幂次相互作用的二维磁性团簇磁结构研究.
@@ -65,18 +102,18 @@ _物理学报_, 55: 4039-4045 (2006).
 沉积在液相基底表面磁性薄膜的形成机理和特性研究.
 _物理_, 34: 362-370 (2005).
 
-[4] Sen-Jiang Yu, Quan-Lin Ye, Yong-Ju Zhang, Ping-Gen Cai, Xiaojun Xu, Jiang-Xing Chen, Gao-Xiang Ye.
+[4] Sen-Jiang Yu, Quan-Lin Ye, Yong-Ju Zhang, Ping-Gen Cai, **Xiaojun Xu**, Jiang-Xing Chen, Gao-Xiang Ye.
 Pattern formation under residual compressive stress in free sustained aluminum films.
 _Thin Solid Films_, 491: 311-316 (2005).
 
-[3] Quan-Lin Ye, Chun-Mu Feng, **Xiao-Jun Xu**, Jin-Sheng Jin, A-Gen Xia, Gao-Xiang Ye.
+[3] Quan-Lin Ye, Chun-Mu Feng, **Xiaojun Xu**, Jin-Sheng Jin, A-Gen Xia, Gao-Xiang Ye.
 Anomalous hysteresis properties of iron films deposited on liquid surfaces.
 _J Appl Phys_, 98: 013906 (2005).
 
-[2] **Xiao-Jun Xu**, Ping-Gen Cai, Yuan-Lin Ye, A-Gen Xia, Gao-Xiang Ye.
+[2] **Xiaojun Xu**, Ping-Gen Cai, Yuan-Lin Ye, A-Gen Xia, Gao-Xiang Ye.
 Effects of long-range magnetic interactions on DLA aggregation.
 _Phys Lett A_, 338: 1-7 (2005).
 
-[1] Quan-Lin Ye, **Xiao-Jun Xu**, Ping-Gen Cai, A-Gen Xia, Gao-Xiang Ye.
+[1] Quan-Lin Ye, **Xiaojun Xu**, Ping-Gen Cai, A-Gen Xia, Gao-Xiang Ye.
 Experimental observation of ordered stress patterns in iron films deposited on silicone oil surfaces.
 _Phys Lett A_, 318: 457-462 (2003).
