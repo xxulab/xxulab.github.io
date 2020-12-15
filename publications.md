@@ -1,3 +1,37 @@
+[16]
+
+[15]
+
+[14] 
+
+[13] PingGen Cai, SenJiang Yu, **Xiaojun Xu**, MiaoGen Chen, ChengHua Sui, Gao-Xiang Ye.
+Growth mechanism and stress relief patterns of Ni films deposited on silicone oil surfaces.
+_Appl Surf Sci_, 255: 8352-8358 (2009).
+
+[12] 隋成华，蔡萍根，**许晓军**，陈乃波，魏高尧，周红.
+蓝宝石光纤端面上 ZnO 薄膜的制备及其温变光学特性.
+_物理学报_, 58: 2792-2796 (2009).
+
+[11] **Xiaojun Xu**, Yiqi Wu, Gaoxiang Ye.
+Two-dimensional magnetic cluster growth with a power–law interaction.
+_Appl Surf Sci_, 254: 3249-3254 (2008).
+
+[10] 王凤飞，**许晓军**，金进生.
+二维磁性团簇形貌及其分形维数的数值研究.
+_浙江大学学报（理学版)_, 35: 404-408 (2008).
+
+[9] Chenghua Sui, Naibo Chen, **Xiaojun Xu**, Gaoyao Wei, Pinggen Cai, Hong Zhou.
+High-temperature-dependent optical properties of ZnO film on sapphire substrate.
+_Thin Solid Films_, 516: 1137-1141 (2008).
+
+[8] **许晓军**，王凤飞，蔡萍根，魏高尧，隋成华.
+基于幂次相互作用的二维磁性团簇耦合能研究.
+_物理学报_, 56: 6881-6885 (2007).
+
+[7] **Xiaojun Xu**, Quan-Lin Ye, Gao-Xiang Ye.
+Temperature dependence of coercivity behavior in iron films on silicone oil surfaces.
+_Phys Lett A_, 361: 429-433 (2007).
+
 [6] **许晓军**，魏高尧，蔡萍根，金进生，夏阿根，叶高翔.
 具有幂次相互作用的磁性粒子凝聚过程的数值研究.
 _物理学报_, 55: 4039-4045 (2006).
