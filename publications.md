@@ -1,4 +1,4 @@
-[45] 谢良旭,李峰,谢建平,许晓军(* corresponding).
+[45] 谢良旭,李峰,谢建平,**许晓军**(corresponding).
 基于融合神经网络模型的药物分子性质预测.
 _计算机科学_, in press, (2021).
 
@@ -90,15 +90,15 @@ _RNA_, 21: 1066-1084 (2015).
 A Method to predict the 3D structure of an RNA scaffold.
 _Methods Mol Biol_, 1316: 1-11 (2015).
 
-[22] **Xiaojun Xu**, Peinan Zhao, Shi-Jie Chen*.
+[22] **Xiaojun Xu**, Peinan Zhao, Shi-Jie Chen.
 Vfold: A web server for RNA structure and folding thermodynamics prediction.
 _PLoS ONE_, 9: e107504 (2014).
 
-[21] Song Cao#, **Xiaojun Xu**(# co-first), Shi-Jie Chen*.
+[21] Song Cao#, **Xiaojun Xu**(# co-first), Shi-Jie Chen.
 Predicting structure and stability for RNA complexes with intermolecular loop–loop base-pairing.
 _RNA_, 20: 835-845 (2014).
 
-[20] **Xiaojun Xu**, Shi-Jie Chen*.
+[20] **Xiaojun Xu**, Shi-Jie Chen.
 Kinetic mechanism of conformational switch between bistable RNA hairpins.
 _J Am Chem Soc_, 134: 12499-12507 (2012).
 
