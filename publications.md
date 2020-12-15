@@ -1,3 +1,63 @@
+[45] 谢良旭,李峰,谢建平,许晓军(* corresponding).
+基于融合神经网络模型的药物分子性质预测.
+_计算机科学_, in press, (2021).
+
+[44] Liangxu Xie, Lei Xu, Ren Kong, Shan Chang*, **Xiaojunb Xu**(* co-corresponding).
+Improvement of prediction performance with conjoint molecular fingerprint in deep learning: A case study of predicting logarithm of partition coefficients (logP).
+_Front Pharmacol_, in press (2020).
+
+[43] Liangxu Xie, Lei Xu, Shan Chang, **Xiaojun Xu**, Li Meng.
+Multitask deep networks with grid featurization achieve improved scoring performance for protein–ligand binding.
+_Chem Biol Drug Des_, 96: 973-983 (2020).
+
+[42] **Xiaojun Xu**(* co-corresponding), Shi-Jie Chen*.
+Topological constraints of RNA pseudoknotted and loop-kissing motifs: applications to three-dimensional structure prediction.
+_Nucleic Acids Res_, 48: 6503-6512 (2020).
+
+[41] Zhichao Miao, …, **Xiaojun Xu**, …, Eric Westhof.
+RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers.
+_RNA_, 26: 982-995 (2020).
+
+[40] Fengfei Wang, Li-Zhen Sun, Pinggen Cai, Shi-Jie Chen*, **Xiaojun Xu**(* co-corresponding).
+Kinetic mechanism of RNA helix-terminal base pairing - a kinetic minima network analysis.
+_Biophys J_, 117: 1674-1683 (2019).
+
+[39] Chang-Hui Wang, Meng-Bo Luo, **Xiaojun Xu**, Chao Wang, Li-Zhen Sun.
+Effects of salt concentration on the polyelectrolyte translocation through a cylinder nanopore.
+_Eur Polym J_, 121: 109332 (2019).
+
+[38] Fengfei Wang, Li-Zhen Sun, Tingting Sun, Shan Chang, **Xiaojun Xu**(corresponding).
+Helix-based RNA landscape partition and alternative secondary structure determination.
+_ACS Omega_, 4: 15407-15413 (2019).
+
+[37] **Xiaojun Xu**, Chenhan Zhao, Shi-Jie Chen.
+VfoldLA: A web server for loop assembly-based prediction of putative 3D RNA structures.
+_J Struct Biol_, 207: 235-240 (2019).
+
+[36] Li-Zhen Sun*, Haibin Li, **Xiaojun Xu**, Meng-bo Luo.
+Simulation study on the translocation of polyelectrolyte through conical nanopores.
+_J Phys-Condens Mat_, 30: 495101 (2018).
+
+[35] Travis Hurst#, **Xiaojun Xu**(# co-first), Peinan Zhao, Shi-Jie Chen*
+Quantitative understanding of SHAPE mechanism from RNA structure and dynamics analysis.
+_J Phys Chem B_, 122: 4771-4783 (2018).
+
+[34] **Xiaojun Xu**, Shi-Jie Chen.
+Hierarchical assembly of RNA three-dimensional structures based on loop templates.
+_J Phys Chem B_, 122: 5327-5335 (2018).
+
+[33] Zhichao Miao, …, **Xiaojun Xu**, …, Eric Westhof.
+RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme.
+_RNA_, 23: 655-672 (2017).
+
+[32] **Xiaojun Xu**, Dongsheng Duan, Shi-JieChen.
+CRISPR-Cas9 cleavage efficiency correlates strongly with target-sgRNA folding stability: from physical mechanism to off-target assessment.
+_Sci Rep_, 7: 143 (2017).
+
+[31] Chenhan Zhao, **Xiaojun Xu**, Shi-Jie Chen.
+Predicting RNA structure with Vfold.
+_Methods Mol Biol_, 1654: 3-15 (2017).
+
 [30] **Xiaojun Xu**, Tao Yu, Shi-Jie Chen.
 Understanding the kinetic mechanism of RNA single base pair formation.
 _Proc Natl Acad Sci USA_, 113: 116-121 (2016).
