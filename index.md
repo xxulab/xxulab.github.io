@@ -5,6 +5,7 @@
 **Xiaojun Xu**
 ```markdown
 - Principle Investigator
+- Jiangsu specially-appointed professor
 - Professor in biophysics at Jiangsu University of Technology
 - PhD: University of Missouri-Columbia (Advisor: Shi-Jie Chen)
 - Master: Zhejiang University (Advisor: Gaoxiang Ye)
@@ -24,7 +25,6 @@ Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Yi Cheng(MU), Fengfei Wang(JSUT), Pinggen 
 ### Research Funding:
 ```markdown
 - The National Natural Science Fundation of China
-- Jiangsu Specially-Appointed Professor
 ```
 
 ### Publications:
@@ -40,5 +40,19 @@ _Front Pharmacol_, In press (2020).
 Kinetic mechanism of RNA helix-terminal base pairing - a kinetic minima network analysis.
 _Biophys J_, 117: 1674-1683 (2019).
 
-4. 
+4. **Xiaojun Xu**, Tao Yu, Shi-Jie Chen.
+Understanding the kinetic mechanism of RNA single base pair formation.
+_Proc Natl Acad Sci USA_, 113: 116-121 (2016).
 
+5. **Xiaojun Xu**, Shi-Jie Chen.
+Kinetic mechanism of conformational switch between bistable RNA hairpins.
+_J Am Chem Soc_, 134: 12499-12507 (2012).
+
+### Teaching:
+```markdown
+- University physics
+- AI in physics and Chemistry
+```
+
+### Support and Contact:
+Please 
