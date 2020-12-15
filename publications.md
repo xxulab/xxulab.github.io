@@ -2,7 +2,7 @@
 基于融合神经网络模型的药物分子性质预测.
 _计算机科学_, in press, (2021).
 
-[44] Liangxu Xie, Lei Xu, Ren Kong, Shan Chang*, **Xiaojunb Xu**(* co-corresponding).
+[44] Liangxu Xie, Lei Xu, Ren Kong, Shan Chang#, **Xiaojunb Xu**(#, co-corresponding).
 Improvement of prediction performance with conjoint molecular fingerprint in deep learning: A case study of predicting logarithm of partition coefficients (logP).
 _Front Pharmacol_, in press (2020).
 
@@ -10,7 +10,7 @@ _Front Pharmacol_, in press (2020).
 Multitask deep networks with grid featurization achieve improved scoring performance for protein–ligand binding.
 _Chem Biol Drug Des_, 96: 973-983 (2020).
 
-[42] **Xiaojun Xu**(* co-corresponding), Shi-Jie Chen*.
+[42] **Xiaojun Xu**(#, co-corresponding), Shi-Jie Chen#.
 Topological constraints of RNA pseudoknotted and loop-kissing motifs: applications to three-dimensional structure prediction.
 _Nucleic Acids Res_, 48: 6503-6512 (2020).
 
@@ -18,7 +18,7 @@ _Nucleic Acids Res_, 48: 6503-6512 (2020).
 RNA-Puzzles Round IV: 3D structure predictions of four ribozymes and two aptamers.
 _RNA_, 26: 982-995 (2020).
 
-[40] Fengfei Wang, Li-Zhen Sun, Pinggen Cai, Shi-Jie Chen*, **Xiaojun Xu**(* co-corresponding).
+[40] Fengfei Wang, Li-Zhen Sun, Pinggen Cai, Shi-Jie Chen#, **Xiaojun Xu**(#, co-corresponding).
 Kinetic mechanism of RNA helix-terminal base pairing - a kinetic minima network analysis.
 _Biophys J_, 117: 1674-1683 (2019).
 
@@ -38,7 +38,7 @@ _J Struct Biol_, 207: 235-240 (2019).
 Simulation study on the translocation of polyelectrolyte through conical nanopores.
 _J Phys-Condens Mat_, 30: 495101 (2018).
 
-[35] Travis Hurst#, **Xiaojun Xu**(# co-first), Peinan Zhao, Shi-Jie Chen*
+[35] Travis Hurst#, **Xiaojun Xu**(#, co-first), Peinan Zhao, Shi-Jie Chen.
 Quantitative understanding of SHAPE mechanism from RNA structure and dynamics analysis.
 _J Phys Chem B_, 122: 4771-4783 (2018).
 
@@ -94,7 +94,7 @@ _Methods Mol Biol_, 1316: 1-11 (2015).
 Vfold: A web server for RNA structure and folding thermodynamics prediction.
 _PLoS ONE_, 9: e107504 (2014).
 
-[21] Song Cao#, **Xiaojun Xu**(# co-first), Shi-Jie Chen.
+[21] Song Cao#, **Xiaojun Xu**(#, co-first), Shi-Jie Chen.
 Predicting structure and stability for RNA complexes with intermolecular loop–loop base-pairing.
 _RNA_, 20: 835-845 (2014).
 
