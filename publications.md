@@ -1,8 +1,33 @@
-[16]
+[22]
 
-[15]
+[21]
 
-[14] 
+[20]
+
+
+[19] 吴一琦，**许晓军**.
+三角点阵基底上基于幂次相互作用的二维磁性团簇磁结构研究.
+_真空科学与技术学报_, 32: 63-67 (2012).
+
+[18] **Xiaojun Xu**, Fengfei Wang.
+Morphology transition in cluster growth at different temperature.
+_Appl Surf Sci_, 257: 7639-7642 (2011).
+
+[17] Pinggen Cai, Dong Zhen, **Xiaojun Xu**, Yulin Liu, Naibo Chen, Gaoyao Wei, Chenghua Sui.
+A novel fiber-optic temperature sensor based on high temperature-dependent optical properties of ZnO film on sapphire fiber-ending.
+_Mat Sci Eng B-Adv_, 171: 116-119 (2010).
+
+[16] 吴一琦，**许晓军**.
+三角格点基底上磁性分形团簇形貌演化规律.
+_计算物理_, 27: 608-612 (2010).
+
+[15] **许晓军**，王凤飞.
+不同温度下团簇生长的 Monte Carlo 模拟.
+_计算物理_, 26: 758-762 (2009).
+
+[14] **许晓军**，李燕，隋成华.
+表面等离子共振传感器用于酒精溶液浓度的测量.
+_半导体光电_, 30: 984-987 (2009).
 
 [13] PingGen Cai, SenJiang Yu, **Xiaojun Xu**, MiaoGen Chen, ChengHua Sui, Gao-Xiang Ye.
 Growth mechanism and stress relief patterns of Ni films deposited on silicone oil surfaces.
