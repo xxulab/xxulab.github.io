@@ -32,11 +32,11 @@ Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Yi Cheng(MU), Fengfei Wang(JSUT), Pinggen 
 Topological constraints of RNA pseudoknotted and loop-kissing motifs: applications to three-dimensional structure prediction.
 _Nucleic Acids Res_, 48: 6503-6512 (2020).
 
-2. Liangxu Xie, Lei Xu, Ren Kong, Shan Chang, **Xiaojun Xu**(co-corresponding).
+2. Liangxu Xie, Lei Xu, Ren Kong, Shan Chang*, **Xiaojun Xu**(*, co-corresponding).
 Improvement of prediction performance with conjoint molecular fingerprint in deep learning: A case study of predicting logarithm of partition coefficients (logP).
 _Front Pharmacol_, In press (2020).
 
-3. Fengfei Wang, Li-Zhen Sun, Pinggen Cai, Shi-Jie Chen, **Xiaojun Xu**(co-corresponding).
+3. Fengfei Wang, Li-Zhen Sun, Pinggen Cai, Shi-Jie Chen*, **Xiaojun Xu**(*, co-corresponding).
 Kinetic mechanism of RNA helix-terminal base pairing - a kinetic minima network analysis.
 _Biophys J_, 117: 1674-1683 (2019).
 
