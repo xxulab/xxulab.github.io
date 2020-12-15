@@ -48,6 +48,8 @@ _Proc Natl Acad Sci USA_, 113: 116-121 (2016).
 Kinetic mechanism of conformational switch between bistable RNA hairpins.
 _J Am Chem Soc_, 134: 12499-12507 (2012).
 
+--- Please visit [here](http://xuxjlab.github.io/publications.md) for the full list of publications.
+
 ### Teaching:
 ```markdown
 - University physics
