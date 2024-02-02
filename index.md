@@ -7,13 +7,13 @@
 - Principle Investigator
 - Jiangsu specially-appointed professor
 - Professor in biophysics at Jiangsu University of Technology
-- PhD: University of Missouri-Columbia (Advisor: Shi-Jie Chen)
-- Master: Zhejiang University (Advisor: Gaoxiang Ye)
+- PhD: University of Missouri-Columbia
+- Master: Zhejiang University
 - Email: xuxiaojun@jsut.edu.cn
 ```
 **Collaborators:**
 
-Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Yi Cheng(MU), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jiangpin Xie(ZJHU), Yangyang Su(JSUT)
+Li-Zhen Sun(ZJUT), Liangxu Xie(JSUT), Yi Cheng(MU), Fengfei Wang(JSUT), Pinggen Cai(ZJUT), Jiangpin Xie(ZJHU)
 
 ### Research Interests:
 ```markdown
@@ -48,7 +48,7 @@ _Proc Natl Acad Sci USA_, 113: 116-121 (2016).
 Kinetic mechanism of conformational switch between bistable RNA hairpins.
 _J Am Chem Soc_, 134: 12499-12507 (2012).
 
---- Please visit [here](http://xuxjlab.github.io/publications) for the full list of publications.
+--- Please visit [here](http://xxulab.github.io/publications) for the full list of publications.
 
 ### Teaching:
 ```markdown
