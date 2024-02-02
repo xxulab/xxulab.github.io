@@ -60,4 +60,4 @@ _J Am Chem Soc_, 134: 12499-12507 (2012).
 
 For questions or comments regarding this website, please [contact us](email: xuxiaojun@jsut.edu.cn).
 
-Copyright © 2020 by the **xuxj** research lab.
+Copyright © 2024 by the **xuxj** research lab.
