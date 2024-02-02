@@ -1,4 +1,4 @@
-# Welcome to the xuxj lab
+# Welcome to the xxuLAB
 
 ----- Seriousness is an attitude -----
 
