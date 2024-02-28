@@ -5,10 +5,10 @@
 **Xiaojun Xu**
 ```markdown
 - Principle Investigator
-- Professor in biophysics at Jiangsu University of Technology
-- PhD: University of Missouri-Columbia
-- Master: Zhejiang University
-- Email: xuxiaojun@jsut.edu.cn
+- Professor in biophysics at JSUT
+- PhD: Univ. Missouri
+- Master: ZJU
+- Email: xxulab@163.com
 ```
 
 ### Research Interests:
