@@ -25,7 +25,7 @@
 ```
 
 ### Publications:
-[6]K Wang, Z Yin, C Sang, W Xia, Y Wang, T Sun, **X Xu**.
+[6] K Wang, Z Yin, C Sang, W Xia, Y Wang, T Sun, **X Xu**.
 Geometric deep learning for the prediction of magnesium-binding sites in RNA structures.
 _Int J Biol Macromol_, 262: 130150 (2024).
 
