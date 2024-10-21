@@ -55,7 +55,6 @@ _J Am Chem Soc_, 134: 12499-12507 (2012).
 
 ### Teaching:
 ```markdown
-- University physics
 - AI in physics and Chemistry
 - Overview of machine learning
 ```
