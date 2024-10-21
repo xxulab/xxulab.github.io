@@ -13,10 +13,12 @@
 
 ### Research Interests:
 ```markdown
-- physical modeling
+The main research areas are computational biophysics and bioinformatics, focusing on combining
+- physics-based modeling
 - molecular simulation
-- big data analysis
-- machine learning/deep learning
+- data analysis
+- machine and deep learning
+to investigate the physical mechanism of molecule folding and develop predictive models for molecule structure and function.
 ```
 
 ### Research Funding:
